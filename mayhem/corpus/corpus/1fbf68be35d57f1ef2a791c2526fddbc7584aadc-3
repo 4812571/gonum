@@ -1,0 +1,1 @@
+digraph{gs->gt[r=n]n->s[r=e]n->gt[r=n]n->s[r=e]n->s->s[r=n]n->c[r=n]gt[r=n]n->r[r=e]n->s[r=n]a:gs->c[r=e]s->i[r=n]s->t[r=n]s->t[r=n]s->c[r=n]t->e[r=e]t->c[r=n]t->c[r=n]t->r[r=e]t->e[r=n]c->c[r=n]c->r[r=e]r->t[r=e]r->f[r=e]r->r[r=e]e->s[r=d]e->f[r=d]e->d[r=n]s->e[r=n]s->n[r=n]s->t[r=n]s->e[r=e]}

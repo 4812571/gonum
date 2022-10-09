@@ -1,0 +1,1 @@
+digraph {	z[l="o\ld",c="",e=24,e="",e=d,r=""]	[e=d]	[c=d]	grn[c=grn]	b[c=b,r=b]	c[c=c]	[c=a]	[r=w]	[c=e]	d->grn	->b	b->c	b->a	grn->w	grn->e}

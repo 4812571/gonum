@@ -1,0 +1,1 @@
+digraph {nodep.5[e=d,h=.1,t=.1]node0[l="<f |f |f |f |f |f |f | ",t=0][h=5]node1[l="{n n |  |p }"]node2[l="{n a  |  |p }"]node3[l="{n i  |  |p }"]node4[l="{n e  |  |p }"]node5[l="{n t |  |p }"]node6[l="{n o |  |p }"]node7[l="{n s |  |p }"]node0:f0->node1:n	node0:f1->node2:n	node0:f2->node3:n	node0:f5->node4:n	node0:f6->node5:n	node2->node6:n	node4->node7:n}

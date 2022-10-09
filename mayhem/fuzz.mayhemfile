@@ -1,4 +1,6 @@
 project: gonum
 target: fuzz
+testsuite:
+- file://mayhem/corpus
 cmds:
 - cmd: /out/fuzz
