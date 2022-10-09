@@ -1,0 +1,4 @@
+project: gonum
+target: fuzz
+cmds:
+- cmd: /out/fuzz
