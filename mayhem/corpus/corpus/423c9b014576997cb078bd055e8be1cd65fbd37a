@@ -1,1 +1,0 @@
-digraph{h[l="注文した下駄の注文を起草"]ge[l="下段デュー"]ne_s[l="ニュードッグシーケンスブラック"]ge_n_e_r[l="基本配列"]_d_s[l="列黒塗り下駄配"]_d_s_e_f_a[l="クキリ下駄配置キリ"]_s[l="アレンジメントキ"]ne_S_s[l="新しいグ"]ge->{ge_n_e_r_s ne_S_s ne_s_s}_s->_d_s_d_s->_d_s_e_f_a_d_s_e_f_a->_d_s_d_s->ge_n_e_r[e=d]}

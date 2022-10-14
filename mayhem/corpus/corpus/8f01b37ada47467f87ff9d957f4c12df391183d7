@@ -1,1 +1,0 @@
-digraph G{subgraph r_{A_1->A_21	A_1->A_23	A_25->A_3	subgraph r_{l" "{A_21->A_22[n=2]k}A_22->A_23	A_22->A_24{A_23->A_24[n=2]k}A_23->A_25	A_24->A_25}}Et_1->A_1	A_3->Et_2	Et_3->A_24}
